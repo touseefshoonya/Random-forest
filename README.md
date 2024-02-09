@@ -3,7 +3,7 @@
 
 understand basics of Random forest and with basic codes
 Here hyperparameter is used to improve accuracy but nothing great achieved
-firstly all the models tried with tuning:
+firstly all the models tried without tuning:
 
 
 ![Alt text](image.png)
